@@ -56,6 +56,8 @@ When the program starts:
 
 ![Main Window](mainscreen.png)
 ![Tray Window](trayscreen.png)
+
+
 *The application's main window and connection status.*
 
 ## Configuration
@@ -146,6 +148,8 @@ Program çalıştırıldığında:
 
 ![Ana Ekran](mainscreen.png)
 ![Tray Ekranı](trayscreen.png)
+
+
 *Uygulamanın ana ekranı ve bağlantı durumu.*
 
 ## Yapılandırma
