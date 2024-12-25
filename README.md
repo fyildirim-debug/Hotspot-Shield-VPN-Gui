@@ -23,7 +23,7 @@ This project is a desktop application developed using Python and GTK for the Hot
 
    ```bash
    git clone https://github.com/fyildirim-debug/Hotspot-Shield-VPN-Gui.git
-   cd hotspot-shield-app
+   cd Hotspot-Shield-VPN-Gui
    ```
 
 2. **Install Required Dependencies:**
@@ -115,7 +115,7 @@ Bu proje, Hotspot Shield VPN istemcisi için Python ve GTK kullanılarak gelişt
 
    ```bash
    git clone https://github.com/fyildirim-debug/Hotspot-Shield-VPN-Gui.git
-   cd hotspot-shield-app
+   cd Hotspot-Shield-VPN-Gui
    ```
 
 2. **Gerekli Bağımlılıkları Yükleyin:**
